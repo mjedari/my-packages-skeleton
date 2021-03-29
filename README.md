@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mjedari/ticket/master/art/banner.png)
+![](https://github.com/mjedari/my-packages-skeleton/blob/897e1e9064c9b4aab5817c2b20782abf2acdeee3/art/banner.png?raw=true)
 
 # Ticket Api Laravel
 
